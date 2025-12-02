@@ -1,0 +1,53 @@
+.one{
+    color: rgb(0, 255, 89);
+    font-size: 20px;
+}
+
+.second{
+    color: red;
+    font-size: 18px;
+    font-style: italic  ;
+    background-color: aliceblue;
+}
+.container{
+    color:orange;
+    font-size: 16px;
+
+}
+.third{
+    color: blue;
+    font-weight: bold;
+}
+.box{
+    text-align: center;
+}
+.ec{
+      text-decoration: underline;
+      text-transform: uppercase;
+}
+.cc{
+    text-align: justify;
+    border: 10px outset black;
+    border-radius: 10px;
+}
+.ff{
+    border: 10px outset black;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+m.link{
+    color: red;
+}
+m.link:hover{
+    color: blue;
+}
+m.link:active{
+    color: green;
+}
+m.link:visited{
+    color: yellow;
+}
+
